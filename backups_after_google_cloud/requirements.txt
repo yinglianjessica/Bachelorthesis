@@ -1,0 +1,16 @@
+requests
+pandas
+numpy
+matplotlib
+tensorflow
+joblib
+os-sys
+pickle-mixin
+plotly
+openmeteo_requests
+requests_cache
+statsmodels
+scipy
+scikit-learn
+retry_requests
+
